@@ -59,7 +59,7 @@ Key insights are visualized below using Python (`Seaborn` & `Matplotlib`):
 
 ![Key Insights](images/olist_key_insights.png)
 
----
+[![Tableau](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-E97627.svg)](https://public.tableau.com/views/OlistBrazilianE-CommerceAnalytics_17933049791000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ### 6. Act (Strategic Recommendations)
 1. **Targeted Carrier SLAs in North/Northeast Regions:** Because states like Alagoas and Maranhão suffer from disproportionately high delay rates (~20%–23%), Olist should renegotiate regional carrier contracts or incentivize local merchants to utilize regional fulfillment hubs.
